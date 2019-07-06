@@ -1,0 +1,19 @@
+{
+  "name": "studentinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mehedy302/NodeJs1.git"
+  },
+  "author": "Md Mehedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mehedy302/NodeJs1/issues"
+  },
+  "homepage": "https://github.com/Mehedy302/NodeJs1#readme"
+}
